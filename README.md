@@ -1,6 +1,12 @@
 Device configuration for Smartisan U3 Pro
 ==============
 
+For building TWRP for Smartisan U3 Pro ONLY
+
+Kernel source: https://github.com/MoKee/android_kernel_smartisan_sdm660/commits/mkn-mr1
+
+-----
+
 The Smartisan U3 Pro (codenamed _"osborn"_, aka. JianGuo Pro 2 or Nut Pro 2) are middle-end smartphones from Smartisan.
 
 Smartisan U3 Pro was announced and released in November 2017.
