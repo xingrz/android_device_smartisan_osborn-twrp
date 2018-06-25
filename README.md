@@ -3,7 +3,7 @@ Device configuration for Smartisan U3 Pro
 
 For building TWRP for Smartisan U3 Pro ONLY
 
-Kernel source: https://github.com/MoKee/android_kernel_smartisan_sdm660/commits/mkn-mr1
+Kernel source: https://github.com/MoKee/android_kernel_smartisan_sdm660/commits/mko-mr1
 
 -----
 
